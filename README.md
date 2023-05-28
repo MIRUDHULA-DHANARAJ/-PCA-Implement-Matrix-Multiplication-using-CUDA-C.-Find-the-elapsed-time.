@@ -147,7 +147,7 @@ Elapsed Time: 0.000037 seconds
                     0.00%     310ns         1     310ns     310ns     310ns  cuDeviceGetUuid
 ```
 
-![5](https://github.com/MIRUDHULA-DHANARAJ/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/94828147/534167ec-b122-49a5-a4d4-0b83991d72b8)
+![51](https://github.com/MIRUDHULA-DHANARAJ/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/94828147/83e4dd39-3146-407e-bd03-4d0ef3bb55c7)
 
 
 Result:
